@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "Bug 🐞",
+    "color" : "d10000",
+    "description" : "We don't like bugs. We squash bugs."
+  },
+  {
+    "name" : "Discussion",
+    "color" : "12CCDD",
+    "description" : "Talk about some stuff"
+  },
+  {
+    "name" : "This is a test label.",
+    "color" : "00d399",
+    "description" : "with a test description"
+  },
+  {
+    "name" : "enhancement",
+    "color" : "000000",
+    "description" : null
+  }
+]
